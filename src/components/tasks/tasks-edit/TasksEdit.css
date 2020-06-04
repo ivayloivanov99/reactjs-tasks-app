@@ -1,0 +1,15 @@
+.task-edit-wrapper {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.task-form-wrapper {
+    width: 400px;
+    border: 1px solid rgb(12, 147, 189);
+    border-radius: 10px;
+    background-color: lightblue;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}

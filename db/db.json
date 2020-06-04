@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "id": "5ec6700736837ac39d825a84",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/200?random=1",
+      "age": "19",
+      "name": "Alisa Murray",
+      "email": "alisamurray@cosmetex.com",
+      "password": 12345
+    },
+    {
+      "id": "5ec670079fdce9e410fe0f49",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/200?random=3",
+      "age": 30,
+      "name": "Rosemarie Good",
+      "email": "rosemariegood@cosmetex.com",
+      "password": 12345
+    },
+    {
+      "id": "5ec67007fe4d075b2522948b",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/200?random=4",
+      "age": "23",
+      "name": "May Hobbs",
+      "email": "mayhobbs11@cosmetex.com",
+      "password": 123456
+    },
+    {
+      "id": "5ec67007be301e00dbc7739e",
+      "isActive": false,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/200?random=1",
+      "age": 38,
+      "name": "Lindsey Barnett",
+      "email": "lindseybarnett@cosmetex.com",
+      "password": 12345
+    },
+    {
+      "id": "5ec670078b69cc6d325bf510",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/200?random=5",
+      "age": 26,
+      "name": "Heidi Carpenter",
+      "email": "heidicarpenter@cosmetex.com",
+      "password": 12345
+    },
+    {
+      "name": "Admin Admin",
+      "email": "admin@admin.com",
+      "password": "123456",
+      "age": "22",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/200?random=1",
+      "id": "DoYAH4k"
+    },
+    {
+      "name": "Mccoy Hopper",
+      "age": "34",
+      "email": "mccoyhopper@cosmetex.com",
+      "password": "12345",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/200?random=3",
+      "id": "ljHzUtR"
+    },
+    {
+      "name": "Taylor Watts",
+      "age": "42",
+      "email": "taylorwatts@cosmetex.com",
+      "password": "123123",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/200?random=7",
+      "id": "IYDDIzL"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "tasta",
+      "content": "dasfgasg",
+      "difficulty": "6",
+      "authorID": "DoYAH4k",
+      "authorName": "Admin Admin",
+      "date": "31/5/2020",
+      "status": "Completed",
+      "id": "AdJAPgY"
+    },
+    {
+      "title": "fsdfsdfds",
+      "content": "dasdasdas",
+      "difficulty": "2",
+      "authorID": "DoYAH4k",
+      "authorName": "Admin Admin",
+      "date": "3/6/2020",
+      "id": "IvfJJtg",
+      "status": "Pending"
+    },
+    {
+      "title": "fsdfsdf",
+      "content": "dasdasd",
+      "difficulty": "7",
+      "authorID": "DoYAH4k",
+      "authorName": "Admin Admin",
+      "date": "3/6/2020",
+      "status": "Completed",
+      "id": "AS0Yj64"
+    },
+    {
+      "title": "dasdasd",
+      "content": "fsdfsdfsdfsdghsd",
+      "difficulty": "1",
+      "authorID": "DoYAH4k",
+      "authorName": "Admin Admin",
+      "date": "3/6/2020",
+      "status": "Pending",
+      "id": "CwQHoqA"
+    },
+    {
+      "title": "asdasds",
+      "content": "gdfgdf",
+      "difficulty": "8",
+      "authorID": "DoYAH4k",
+      "authorName": "Admin Admin",
+      "date": "3/6/2020",
+      "status": "Completed",
+      "id": "cFPcZBa"
+    },
+    {
+      "title": "Task 1",
+      "content": "This is the content for task 1.",
+      "difficulty": "6",
+      "authorID": "5ec67007fe4d075b2522948b",
+      "authorName": "May Hobbs",
+      "date": "3/6/2020",
+      "status": "Pending",
+      "id": "9Z3V2-o"
+    },
+    {
+      "title": "Task 3",
+      "content": "This is the content for task 3",
+      "difficulty": "10",
+      "authorID": "5ec67007fe4d075b2522948b",
+      "authorName": "May Hobbs",
+      "date": "3/6/2020",
+      "status": "Completed",
+      "id": "hlypG_z"
+    }
+  ]
+}
