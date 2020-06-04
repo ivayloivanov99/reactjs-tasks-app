@@ -83,8 +83,8 @@
   ],
   "tasks": [
     {
-      "title": "tasta",
-      "content": "dasfgasg",
+      "title": "First Task",
+      "content": "Content for the first task",
       "difficulty": "6",
       "authorID": "DoYAH4k",
       "authorName": "Admin Admin",
@@ -93,8 +93,8 @@
       "id": "AdJAPgY"
     },
     {
-      "title": "fsdfsdfds",
-      "content": "dasdasdas",
+      "title": "Second Task",
+      "content": "Content for the second task.",
       "difficulty": "2",
       "authorID": "DoYAH4k",
       "authorName": "Admin Admin",
@@ -103,34 +103,14 @@
       "status": "Pending"
     },
     {
-      "title": "fsdfsdf",
-      "content": "dasdasd",
+      "title": "Third Task",
+      "content": "Content for the third task.",
       "difficulty": "7",
       "authorID": "DoYAH4k",
       "authorName": "Admin Admin",
       "date": "3/6/2020",
       "status": "Completed",
       "id": "AS0Yj64"
-    },
-    {
-      "title": "dasdasd",
-      "content": "fsdfsdfsdfsdghsd",
-      "difficulty": "1",
-      "authorID": "DoYAH4k",
-      "authorName": "Admin Admin",
-      "date": "3/6/2020",
-      "status": "Pending",
-      "id": "CwQHoqA"
-    },
-    {
-      "title": "asdasds",
-      "content": "gdfgdf",
-      "difficulty": "8",
-      "authorID": "DoYAH4k",
-      "authorName": "Admin Admin",
-      "date": "3/6/2020",
-      "status": "Completed",
-      "id": "cFPcZBa"
     },
     {
       "title": "Task 1",
